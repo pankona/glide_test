@@ -1,5 +1,5 @@
 package: main
 import:
-- package: github.com/golang/mobile
+- package: golang.org/x/mobile
   vcs: git
   repo: git@github.com:pankona/mobile.git
